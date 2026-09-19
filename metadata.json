@@ -1,0 +1,6 @@
+{
+  "name": "自給自足ライフプランナー",
+  "description": "家族構成や所有土地面積から、食料・カロリー・エネルギー・水資源の年間自給率を算出し、作付計画や農事暦・保存食づくりをナビゲートする自給自足生活設計シミュレーター。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
